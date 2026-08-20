@@ -12,3 +12,4 @@ public class OperationEx1 {
         System.out.println(avgScore);
     }
 }
+
